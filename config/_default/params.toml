@@ -13,7 +13,7 @@ fingerprintAlgorithm = "sha256"
 # Which content section(s) count as "articles" for the homepage recent list
 mainSections = ["animals"]
 
-description = "A Girl Scout Silver Award project by Charlotte Pogran about Emotional Support Animals, Service Animals, and Therapy Animals."
+description = "A Girl Scout Silver Award project about Emotional Support Animals, Service Animals, and Therapy Animals."
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
