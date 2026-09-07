@@ -20,6 +20,15 @@ summary: "An ESA is a companion animal that provides therapeutic benefit to some
 2. Obtain a letter
    - You will need a letter from your therapist or doctor stating you have a disability and that your animal provides therapeutic support
 
+## 3 Key Requirements to Become an ESA
+
+1. They are domesticated
+   - Must be considered a species that is domesticated and kept as a pet
+2. Manageable
+   - Must be able to be controlled in public settings and not be a problem around or in the home
+3. Professional letter
+   - A letter by a mental health professional documenting the person having a mental or emotional need for the animal
+
 ## Rules of Having an ESA
 
 1. Understand Limitations
@@ -33,14 +42,6 @@ summary: "An ESA is a companion animal that provides therapeutic benefit to some
 5. Employment
    - Employers may be required to provide reasonable accommodations on a case-by-case basis
 
-## 3 Key Requirements to Become an ESA
-
-1. They are domesticated
-   - Must be considered a species that is domesticated and kept as a pet
-2. Manageable
-   - Must be able to be controlled in public settings and not be a problem around or in the home
-3. Professional letter
-   - A letter by a mental health professional documenting the person having a mental or emotional need for the animal
 
 ## The Cost of Getting and Training an ESA
 
@@ -52,7 +53,7 @@ summary: "An ESA is a companion animal that provides therapeutic benefit to some
 
 Private health insurance, Medicare, and Medicaid will not pay to purchase, adopt, or train an ESA. ESAs do not require specialized training by law, so training fees are strictly out-of-pocket
 
-## Places to Obtain an ESA
+## Places to get an ESA
 
 There are no places where you can buy an already trained ESA. Once you have the letter, you have to go to a shelter or rescue and pick your animal and from there train it.
 
@@ -87,13 +88,7 @@ No, ESAs are not allowed in restaurants and stores because they do not have the 
 - Never pet, talk to, or approach an ESA without first asking the handler. Even if they are not performing a "task," they are providing essential emotional comfort and should not be distracted.
 - Direct your conversation to the handler rather than the animal.
 - If the handler says "no" to an interaction, respect it. The animal may be helping the person manage anxiety or a phobia that makes social interaction difficult at that moment.
-- Maintain a respectful distance with your own pets to avoid causing the ESA stress or distraction.
-
-## Real Story
-
-{{< alert "lightbulb" >}}
-One family adopted a pair of kittens at 12 weeks old to be emotional support animals for a family member who needed to feel safe alone in her room at night. The cats cuddle with her and often sleep in her bed.
-{{< /alert >}}
+- Maintain a respectful distance with your own pets to avoid causing the ESA stress or distraction
 
 ## Top 25 Strangest Emotional Support Animals
 

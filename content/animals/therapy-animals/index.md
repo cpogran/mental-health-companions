@@ -1,7 +1,7 @@
 ---
 title: "Therapy Animals"
 date: 2026-09-07
-weight: 3
+weight: 2
 tags: ["Therapy Animal"]
 showTableOfContents: true
 featureAlt: "Two women sitting with their therapy dogs"
@@ -100,9 +100,3 @@ No, therapy animals are not allowed everywhere like service animals. Stores and 
 8. Alpacas
 9. Miniature Horses
 10. Miniature Pigs
-
-## Real Story
-
-{{< alert "lightbulb" >}}
-One handler picked her puppy for being curious, gentle, calm, and friendly. She started training him at 8 weeks old — at home and around the community — and it took about a year for him to become a certified therapy dog. She did most of the training herself, with some help from a local dog training club. Her favorite part was watching him grow and improve; the hardest part was making sure to practice consistently. Now he goes to work with her, greeting everyone he meets in places like therapy offices.
-{{< /alert >}}

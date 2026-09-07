@@ -1,7 +1,7 @@
 ---
 title: "Service Animals"
 date: 2026-09-07
-weight: 2
+weight: 3
 tags: ["Service Animal"]
 showTableOfContents: true
 featureAlt: "A service dog wearing a Canine Companions vest walking through an airport"
@@ -57,13 +57,6 @@ Getting and training a service animal typically costs between $15,000 and $50,00
 - Providers like Medicare, Medicaid, and private commercial health plans classify service dogs as "personal expenses" and do not cover acquisition or training costs
 - Veterans Affairs allows qualified veterans with a prescription for a certified guide or service dog to have the animal's veterinary care, treatments, and associated medications covered
 
-## Places to Obtain a Service Animal
-
-1. The Seeing Eye- they specializes in guide dogs to help blind or visually impaired people and are located in Morristown, NJ.
-2. Guide Dog Foundation- they provide guide and service dogs to people with disabilities and are located in Smithtown, New York
-3. America's VetDogs- Specializes in service dogs for veterans, active-duty military, and first responders and are located in Smithtown, New York
-4. Canine Companions- Specializes in hearing dogs and service dogs for physical disabilities and are located in Medford, New York
-
 ## Service Animal Rules by Airline
 
 - American Airlines
@@ -79,7 +72,7 @@ Getting and training a service animal typically costs between $15,000 and $50,00
 - Frontier Airlines
   - Allows fully trained service dogs to travel in cabin for free.
 
-All of these airlines only accept trained service dogs and there are forms you have to fill out at least two days before.
+All of these airlines only accept trained service dogs and there are forms you have to fill out at least two days before. The reason for this is planes now only let two service animal on one plane at a time so they can know how many are on the plane at a time. So if two other people with service animals have filled out the paper work and you have not then you will not be allowed to board. 
 
 ## Fun Facts!
 
@@ -99,13 +92,14 @@ All of these airlines only accept trained service dogs and there are forms you h
 
 ## Can Service Animals Go Into Restaurants?
 
-Yes, service animals are legally allowed to go into stores. Under the Americans with Disabilities Act, privately-owned businesses that serve the public must allow service animals to accompany people with disabilities anywhere customers are generally allowed.
+Yes, service animals are legally allowed to go into stores. Under the Americans with Disabilities Act, privately-owned businesses that serve the public must allow service animals to accompany people with disabilities anywhere customers are generally allowed. 
 
 ## When Can a Service Animal Be Excluded
 
 - If the animal is not housebroken
 - If the animal is out of control (growling, biting, or excessive barking)
 - If the animal being there would change or interfere with what is supposed to happen.
+- In a kitchen or any places where the animal can be cross contaminated
 
 ## What to Do When You See a Service Animal in Public
 
@@ -115,9 +109,3 @@ Yes, service animals are legally allowed to go into stores. Under the Americans 
 - Ensure your own pets do not approach or distract the service dog.
 - Do not feed the dog, as it can disrupt its training and diet.
 - If a service dog approaches you without its handler, it may be looking for help. Follow the dog, as it might be trying to lead you to its owner.
-
-## Real Story
-
-{{< alert "lightbulb" >}}
-One owner adopted her service dog at 9 weeks old and trained her using the AKC Canine Good Citizen certification plus additional training through a local program. The dog is trained to sense oncoming panic attacks — she'll lay on her handler's chest to provide grounding pressure and lick her face to help interrupt hyperventilating. Her handler says she often works faster than medication would.
-{{< /alert >}}
