@@ -1,0 +1,4 @@
+# Overrides of Congo theme i18n strings.
+# See themes/congo/i18n/en.yaml for the full list of available keys.
+shortcode:
+  recent_articles: "Companions"
