@@ -72,7 +72,7 @@ Getting and training a service animal typically costs between $15,000 and $50,00
 - Frontier Airlines
   - Allows fully trained service dogs to travel in cabin for free.
 
-All of these airlines only accept trained service dogs and there are forms you have to fill out at least two days before. The reason for this is planes now only let two service animal on one plane at a time so they can know how many are on the plane at a time. So if two other people with service animals have filled out the paper work and you have not then you will not be allowed to board. 
+All of these airlines only accept trained service dogs and there are forms you have to fill out at least two days before. The reason for this is that many airlines now only let two service animals on one plane at a time so they can know how many animals to expect. So if two other people with service animals have filled out the paper work and you have not, then you will not be allowed to board. 
 
 ## Fun Facts!
 
@@ -99,7 +99,7 @@ Yes, service animals are legally allowed to go into stores. Under the Americans 
 - If the animal is not housebroken
 - If the animal is out of control (growling, biting, or excessive barking)
 - If the animal being there would change or interfere with what is supposed to happen.
-- In a kitchen or any places where the animal can be cross contaminated
+- In a kitchen or any places where the animal and food can be cross contaminated
 
 ## What to Do When You See a Service Animal in Public
 

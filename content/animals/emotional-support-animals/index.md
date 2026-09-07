@@ -57,10 +57,10 @@ Private health insurance, Medicare, and Medicaid will not pay to purchase, adopt
 
 There are no places where you can buy an already trained ESA. Once you have the letter, you have to go to a shelter or rescue and pick your animal and from there train it.
 
-## Fun Fact!
+## Fun Facts!
 
 - There are no actual government databases to register an animal at to be an ESA
-- Any ID cards or vests you get do not grant you and your ESA legal rights or access
+- Any ID cards or vests you get do not grant you and your ESA legal rights or access only the letter from a trained mental health profesional can do that
 
 ## ESA Rules by Airlines
 
